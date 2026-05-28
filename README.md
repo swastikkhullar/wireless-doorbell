@@ -43,4 +43,4 @@ Instead of adding wires to the existing bell switch, the existing AC doorbell wa
 - Proper antenna length was important for reliable operation
 - Then purchased RXB6 , superheterodyne reciever.
 ## Circuit Diagram
-[ Circuit Diagram PDF](./circuit_diagram.pdf)
+[ Circuit Diagram PDF](./CircuitDiagram.pdf)
