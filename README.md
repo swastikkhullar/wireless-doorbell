@@ -36,11 +36,13 @@ Instead of adding wires to the existing bell switch, the existing AC doorbell wa
 - Making it compact by improving antennas
 - Add customized songs using sd card 
 - Use microcontroller for rolling codes/security
+  
 ## Challenges Faced
 
 - Purchased the super regenrative RF modules which required tuning , and were impossible to pair
 - Added some decoupling capacitors to rf transmitter reciver modules as well as on HT12D/E.
 - Proper antenna length was important for reliable operation
 - Then purchased RXB6 , superheterodyne reciever.
+- 9v Battery used to drain fast , hence replaced with two Li-ion batteries. Also made Li-ion charger using TP4056 module.
 ## Circuit Diagram
 [ Circuit Diagram PDF](./CircuitDiagram.pdf)
